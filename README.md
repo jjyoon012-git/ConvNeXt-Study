@@ -6,7 +6,7 @@
 
 ##  주요 참고 논문
 
-- **ConvNeXt (2022)** — [A ConvNet for the 2020s](https://arxiv.org/abs/2201.03545) :contentReference[oaicite:1]{index=1}
+- **ConvNeXt (2022)** — [A ConvNet for the 2020s](https://arxiv.org/abs/2201.03545) 
 
 ---
 
